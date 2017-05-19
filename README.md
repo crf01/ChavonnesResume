@@ -1,4 +1,3 @@
-# ChavonnesResume
 <!DOCTYPE html>
 <html>
 <head>

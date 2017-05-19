@@ -1,1 +1,50 @@
 theme: jekyll-theme-merlot
+
+<!DOCTYPE html>
+    <html>
+        <head>
+            <style>
+                body {background-color: #3d1f7a;}
+                h1 {
+                    color: #f0ebfa;
+                    font-family: American Typewriter;
+                    font-size: 260%;
+                   }
+                 h2 {
+                    color: #f0ebfa;
+                    font-family: American Typewriter;
+                    font-size: 260%;
+                   }
+                 h3 {
+                    color: #f0ebfa;
+                    font-family: American Typewriter;
+                    font-size: 260%;
+                   }
+                p  {
+                    color: #f0ebfa;
+                    font-family: American Typewriter;
+                    font-size: 100%;
+                    border: 2px solid #c2adeb;
+                    padding: 30px;
+                   }
+            </style>
+        </head>
+    <body>
+
+            <h1>About me</h1>
+                <p> My name is Chavonne Fields and I am fifteen years old. Some things that I like to do in my spare time are painting, drawing, reading(comics and books), and also playing video games. My favorite subject in school is Science, and one day I would like to use it to make the world a better place. I woukd describe myself as a hardworking, and dedicated person who always gets things done.   
+            <h2>Education</h2>
+                <p>
+                    <ul>
+                        <li>Familiar with the basics of HTML/CSS, Javascript, Python, and Ruby</li>
+                        <li>Several Academic Awards</li>
+                        <li>I am involved in my school's Environmental Club and Art Club</li>
+                        <li>3.7 GPA</li>
+                    </ul>  
+               
+            <h3> How to Contact Me</h3>
+                <p>Email: ChavonneFields11@gmail.com 
+                   <a href="https://twitter.com/chavonne_fields">Twitter</a>
+                </p>
+        </body>
+   </html

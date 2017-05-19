@@ -3,17 +3,18 @@
 <html>
 <head>
 <style>
-h1 {
-    color: ;
-    font-family: verdana;
-    font-size: 300%;
+body {
+        color: #c2adeb;
 }
-p  {
-    color: red;
-    font-family: courier;
-    font-size: 160%;
+h1 {
+        color: #white;
+}
+p {
+        color: rgb(0,0,255)
 }
 </style>
+</head>
+<body>
 </head>
 <body>
 
